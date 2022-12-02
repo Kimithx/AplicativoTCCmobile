@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicação TCC - Guia de Jogo</string>
+    <string name="historia">História do jogo</string>
+    <string name="voltar">Voltar</string>
+    <string name="tutorial">Como jogar</string>
+    <string name="guia">Ir para o guia</string>
+    <string name="titulo">INCLUSION Guide</string>
+    <string name="texto">Inclusion é um jogo sobre inclusão, onde a personagem principal Milena descobre o seu superpoder através da sua arte, e faz o uso disso para salvar a todos que estão precisando de ajuda em sua cidade.</string>
+</resources>
